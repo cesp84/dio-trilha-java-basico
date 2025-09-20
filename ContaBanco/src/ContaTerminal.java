@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class ContaTerminal {
@@ -26,5 +27,10 @@ public class ContaTerminal {
                 "Sua conta " + contaCompleta + " já está ativa e seu saldo de R$ " + saldo + " disponível para saque.");
 
         scanner.close();
+=======
+public class ContaTerminal {
+    public static void main(String[] args) throws Exception {
+        System.out.println("Hello, World!");
+>>>>>>> 75552fecc6b0d3d3c5f8ac97f8a6be412c925640
     }
 }
